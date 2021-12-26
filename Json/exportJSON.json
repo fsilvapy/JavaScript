@@ -1,0 +1,28 @@
+{
+  "person": {
+  "nome": "flavio",
+  "idade": "37",
+  "funcao": "default",
+
+  "pendencias": {
+    "state": false
+  },
+
+  "dependentes":{
+    "number": "3",
+    "name(s)": 
+    "Thalita, Deborah, Caleb",
+    "menor(es) 18": true
+  }
+  
+
+  }
+
+
+
+}
+
+
+
+
+

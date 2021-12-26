@@ -1,0 +1,38 @@
+
+
+
+
+
+{
+   
+    "carro": "Fiat",
+    "Mod": "Mobile",
+    "cor": "Preto",
+    "Auto": true,
+    "AnoLance": "13/05/2018",
+    "AnoCompra": "02/04/2021",
+    "Donos": {
+        "nome1": "Alcir",
+        "nome2": "Mariza"
+    },
+    "endReco": [
+        "Rua Ibatinga",
+        "Num: 1000",
+        "lote 14",
+        "Mont.Claros MG"
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
